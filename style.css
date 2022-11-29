@@ -1,0 +1,98 @@
+.body{
+  margin:0px;
+}
+.container1{
+  height:450px;
+  background-color:#CDFCF6;
+}
+.topcloud{
+  position: relative;
+  left:1100px;
+  top:130px;
+}
+.name{
+  position: relative;
+  left:640px;
+  top:40px;
+  align-items: center;
+  font-family:'Dancing Script', cursive;
+  color:brown;
+}
+.name1{
+  position: relative;
+  left:680px;
+  top:40px;
+  align-items: center;
+  font-family: 'Comforter Brush', cursive;
+  color:brown;
+
+}
+.bottomcloud{
+  position: relative;
+  left:280px;
+  bottom:130px;
+}
+.mountain{
+  position: relative;
+  left:500px;
+  top:110px;
+}
+.container2{
+
+}
+.image{
+  position: relative;
+  left:680px;
+  top:40px;
+  border-radius:30%;
+  width:90px;
+}
+.artical{
+  position: relative;
+  left:700px;
+  top:45px;
+  color:brown;
+
+}
+.skill{
+  position: relative;
+  left:600px;
+  top:30px;
+}
+.container3{
+
+}
+.work{
+  position: relative;
+  left:600px;
+  top:30px;
+  color:brown;
+  font-size:30px;
+  align-items: center;
+}
+.IM{
+  position: relative;
+  left:550px;
+  top:130px;
+  border-radius:50%;
+  width:50px;
+}
+.pd{
+  position: relative;
+  left:630px;
+  top:50px;
+}
+.question{
+  position: relative;
+  left:700px;
+  bottom:60px;
+  font-family: 'Comforter Brush', cursive;
+  color:brown;
+}
+.photo{
+  position: relative;
+  border-radius:30%;
+  width:90px;
+  bottom:75px;
+  left:400px;
+}
